@@ -13,3 +13,5 @@ Intructions for adding Git Large File Storage:
 
 ** BakedLighting_Lightmaps_House2 is under Content/Fundamentals/Lighting_Rendering/ **
 
+https://dev.epicgames.com/community/learning/courses/Xwp/unreal-engine-lighting-essential-concepts-and-effects/0ax/lighting-essential-concepts-and-effects-introduction
+
