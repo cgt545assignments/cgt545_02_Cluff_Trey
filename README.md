@@ -1,17 +1,9 @@
-# cgt545_02_TEMPLATE
+# cgt545_02_Trey
 
-Developed with Unreal Engine 5.3
+Credits:
+"Church Pew Bench" (https://skfb.ly/ootZY) by Amatsukast is licensed under CC Attribution-NonCommercial-ShareAlike (http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-Intructions for adding Git Large File Storage:
-
-- download https://git-lfs.com/
-- open git in the project folder
-- run 'git lfs track Content/Fundamentals/Materials/Content/Textures/T_GDC_LargeVolcanicRock_001_N.uasset'
-- then run 'git lfs track Content/Fundamentals/Materials/Content/Textures/T_GDC_LargeVolcanicRock_001_D2_R.uasset'
+https://opengameart.org/content/medieval-church-interior
 
 
-
-** BakedLighting_Lightmaps_House2 is under Content/Fundamentals/Lighting_Rendering/ **
-
-https://dev.epicgames.com/community/learning/courses/Xwp/unreal-engine-lighting-essential-concepts-and-effects/0ax/lighting-essential-concepts-and-effects-introduction
 
